@@ -1,0 +1,208 @@
+/* Inserta tu codigo aqui */
+
+/* Responsive */
+
+
+#flatness{
+	width:40%;
+
+}
+nav ,.bg-purple{
+	background-color:#1B0A2A;
+	height:70px;
+	
+}
+
+#more{
+  color:white;
+}
+
+
+li{
+	display:inline-block;
+	color:white;
+	margin:0%;
+	font-style:italic;
+
+}
+
+li:hover{
+	background:rgba(0,0,0,0.3);
+}
+
+#menuboton{
+	display:none;
+}
+
+label{
+	display:none;
+	width:50px;
+	padding:10px;
+}
+
+label:hover{
+	cursor:pointer;
+}
+#bg-purple2{
+   background-color:#1a001a;
+   height:100%;
+
+}
+
+.fondosec1{
+	background-image:url("../image/header-image.jpg");
+	width:100%;
+	height:500px; 
+	background-size:cover;
+	margin-top:3%;
+}
+
+#black{
+	width:50%;
+	height:100%;
+	background-color:black;
+	margin-top:10%;
+	margin-left:25%;
+	padding-top:1%;
+}
+
+.imgsec2{
+	width:100%;
+	
+}
+
+h1{
+	font-size:4em;
+	
+
+
+}
+
+.bg-gris{
+	width:100%;
+	height:250%;
+	margin-top:30px;
+}
+
+.text-orange{
+	color:#F7DC6F;
+}
+
+.text-white{
+	color:white;
+}
+
+.cour{
+	font-family: 'Courgette', cursive;
+}
+
+.life{
+	display:inline-block;
+   	margin:2% 0% 10% 0%;
+   	font-size:1.3em;
+
+}
+
+.left{
+	margin-left:29%;
+}
+#bg-black{  /* background video */
+    width:100%;
+    padding-bottom:3%;
+   	margin:5% 0%;
+}
+
+iframe{
+	margin-top:5%;
+	width:100%; 
+	height:300px;
+}
+
+.bg-div{ /* background divs sections */
+	background-color: #0d0d0d; 
+}
+input{
+	width:100%;
+	height:50px;
+	background-color: #1B0A2A;
+	opacity: 0.8;
+	border:0%;
+	border:none;
+	border-radius:5%;
+	margin-top:-12px;
+	padding:2% 8%;
+	color:white;
+	
+}
+
+form{
+   padding:5%;
+}
+#bg-search{
+   margin-top:7%;
+   border-radius:5%;
+   height:70px;
+   background-color: #0d0d0d;
+}
+#aboutme{
+	width:100%;
+	height:630px;
+
+}
+
+#img-about{
+	width:100%;
+
+}
+.circle{
+	background-color: #1B0A2A;
+	border-radius:50%;
+	width:40px;
+	height:40px;
+	display:inline-block;
+	margin-left:2%;
+}
+
+.redes{
+	margin-left:25%;
+	margin-top:25%;
+	padding:3%;
+}
+
+#facebook{
+	margin-left:3%;
+}
+.text-footer{
+	margin:2%;
+}
+@media screen and (max-width : 920px) {
+
+}
+/* Debajo de 600px */
+
+@media screen and (max-width: 600px) {
+
+#black{
+	width:80%;
+	margin:30% auto;
+	display:block;
+}
+.bg-purple{
+	background-color:#1B0A2A;
+	height:100px;
+	
+}
+
+
+.life{
+	
+   	font-size:0.9em;
+   	margin-left:10%;
+
+}
+.text-footer{
+	margin:7%;
+}
+
+}
+
